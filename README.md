@@ -1,3 +1,11 @@
+## Deploying to Github Pages
+
+`npm run deploy -- -m "deployed updates to Github Pages"`
+
+https://github.com/gitname/react-gh-pages
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
