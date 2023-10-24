@@ -88,3 +88,9 @@ body {
 .game-info {
   margin-left: 20px;
 }
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  margin-bottom: 10px;
+}

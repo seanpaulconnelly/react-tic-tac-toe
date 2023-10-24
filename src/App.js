@@ -90,6 +90,9 @@ export default function Game() {
       <div className="game-info">
         <ol>{moves}</ol>
       </div>
+      <div className="footer">
+        <a href="https://github.com/seanpaulconnelly/react-tic-tac-toe">View on Github</a>
+      </div>
     </div>
   );
 }
